@@ -10,7 +10,7 @@ Celem laboratorium jest zbudowanie sieci wielowarstowej z zastosowaniem algorytm
 
 ## Zastosowane metryki
 
-MSE (ang. Mean Squared Error), która jest średnią kwadratową różnicy pomiędzy wartościami szacunkowymi a wartościami rzeczywistymi.
+MSE (ang. Mean Squared Error) jest średnią kwadratową różnicy pomiędzy wartościami szacunkowymi a wartościami rzeczywistymi.
 
 ```python
   def mean_squared_error(y_pred, y_true):
